@@ -131,8 +131,7 @@ text-align: center;
 .section-three__item{
     float:left;
     text-align: center;
-    margin-left: 5%;
-    margin-top: 100px;
+    margin: 100px 2.5%;
     width: 20%;
 }
 .section-three__item__title{
