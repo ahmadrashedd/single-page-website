@@ -146,14 +146,14 @@ text-align: center;
 
 .section-four__list{
     overflow: auto;
-    padding-top: 50px;
+    padding: 50px;
     background-color: whitesmoke;
     width: 100%;
 }
 .section-four__item{
     float: left;
     text-align: center;
-    margin-left: 5%;
+    margin: 2.5%;
     width: 20%;
 }
 .dot {
