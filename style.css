@@ -5,17 +5,31 @@
     list-style: none;
     box-sizing: border-box;
 }
+#freepik{
+    text-align: center;
+    color: grey;
+}
 
 body{
     font-family: montserrat;
 }
 .container{
     display: block;
-    width: 80%;
+    width: 85%;
     margin: 0px auto;
     height: fit-content;
     overflow-y: auto;
 
+}
+.full__container{    
+     display: block;     
+    width: 95%;    
+     margin: 0px auto; 
+        height: fit-content;   
+          overflow-y: auto; }
+.item_icon{
+    width: 15%;
+    height: auto;
 }
 .header{
     height: 50px;
@@ -96,7 +110,6 @@ body{
 }
 .list-two{
     margin-top: 100px;
-    margin-left:100px;
 }
 
 .item__title,.section-four__item__title{
